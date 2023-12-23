@@ -1,0 +1,15 @@
+artifact_uri: file:///app/udacity/mlops/genre_classification/mlruns/0/9ac97af770004cb29b6eaf99e6a808be/artifacts
+end_time: 1703260329947
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9ac97af770004cb29b6eaf99e6a808be
+run_name: mercurial-sponge-703
+run_uuid: 9ac97af770004cb29b6eaf99e6a808be
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1703260312315
+status: 3
+tags: []
+user_id: tta

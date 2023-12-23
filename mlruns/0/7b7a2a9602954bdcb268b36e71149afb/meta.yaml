@@ -1,0 +1,15 @@
+artifact_uri: file:///app/udacity/mlops/genre_classification/mlruns/0/7b7a2a9602954bdcb268b36e71149afb/artifacts
+end_time: 1703258556520
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7b7a2a9602954bdcb268b36e71149afb
+run_name: handsome-mule-311
+run_uuid: 7b7a2a9602954bdcb268b36e71149afb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1703258488368
+status: 4
+tags: []
+user_id: tta

@@ -1,0 +1,15 @@
+artifact_uri: file:///app/udacity/mlops/genre_classification/mlruns/0/a251cf95c56b40c69dc433c344c97b1f/artifacts
+end_time: 1703221351921
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a251cf95c56b40c69dc433c344c97b1f
+run_name: suave-stork-459
+run_uuid: a251cf95c56b40c69dc433c344c97b1f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1703221279097
+status: 3
+tags: []
+user_id: tta

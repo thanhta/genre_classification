@@ -1,0 +1,15 @@
+artifact_uri: file:///app/udacity/mlops/genre_classification/mlruns/0/c53fff0053f84579b6c353e4f1ee2afc/artifacts
+end_time: 1703264897036
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c53fff0053f84579b6c353e4f1ee2afc
+run_name: clean-bass-881
+run_uuid: c53fff0053f84579b6c353e4f1ee2afc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1703264757590
+status: 4
+tags: []
+user_id: tta

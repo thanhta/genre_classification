@@ -1,0 +1,15 @@
+artifact_uri: file:///app/udacity/mlops/genre_classification/mlruns/0/dff411cbdae74204a0f25548037f8362/artifacts
+end_time: 1703256133718
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: dff411cbdae74204a0f25548037f8362
+run_name: smiling-mouse-344
+run_uuid: dff411cbdae74204a0f25548037f8362
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1703256100257
+status: 4
+tags: []
+user_id: tta

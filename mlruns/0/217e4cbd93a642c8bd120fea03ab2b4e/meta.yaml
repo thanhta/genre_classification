@@ -1,0 +1,15 @@
+artifact_uri: file:///app/udacity/mlops/genre_classification/mlruns/0/217e4cbd93a642c8bd120fea03ab2b4e/artifacts
+end_time: 1703288547575
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 217e4cbd93a642c8bd120fea03ab2b4e
+run_name: powerful-mare-641
+run_uuid: 217e4cbd93a642c8bd120fea03ab2b4e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1703288531563
+status: 3
+tags: []
+user_id: tta

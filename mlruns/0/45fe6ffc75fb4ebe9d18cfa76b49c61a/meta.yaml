@@ -1,0 +1,15 @@
+artifact_uri: file:///app/udacity/mlops/genre_classification/mlruns/0/45fe6ffc75fb4ebe9d18cfa76b49c61a/artifacts
+end_time: 1703262715673
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 45fe6ffc75fb4ebe9d18cfa76b49c61a
+run_name: clean-ant-94
+run_uuid: 45fe6ffc75fb4ebe9d18cfa76b49c61a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1703262700943
+status: 3
+tags: []
+user_id: tta

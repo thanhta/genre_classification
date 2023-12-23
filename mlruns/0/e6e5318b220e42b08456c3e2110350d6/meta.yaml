@@ -1,0 +1,15 @@
+artifact_uri: file:///app/udacity/mlops/genre_classification/mlruns/0/e6e5318b220e42b08456c3e2110350d6/artifacts
+end_time: 1703217899849
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e6e5318b220e42b08456c3e2110350d6
+run_name: carefree-zebra-402
+run_uuid: e6e5318b220e42b08456c3e2110350d6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1703217897768
+status: 4
+tags: []
+user_id: tta

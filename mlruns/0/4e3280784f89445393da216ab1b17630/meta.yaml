@@ -1,0 +1,15 @@
+artifact_uri: file:///app/udacity/mlops/genre_classification/mlruns/0/4e3280784f89445393da216ab1b17630/artifacts
+end_time: 1703288085496
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4e3280784f89445393da216ab1b17630
+run_name: beautiful-duck-849
+run_uuid: 4e3280784f89445393da216ab1b17630
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1703288052035
+status: 3
+tags: []
+user_id: tta

@@ -1,0 +1,15 @@
+artifact_uri: file:///app/udacity/mlops/genre_classification/mlruns/0/9df0e964b0ef4919a9032bccdb49d253/artifacts
+end_time: 1703257146117
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9df0e964b0ef4919a9032bccdb49d253
+run_name: learned-squid-728
+run_uuid: 9df0e964b0ef4919a9032bccdb49d253
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1703257111715
+status: 4
+tags: []
+user_id: tta

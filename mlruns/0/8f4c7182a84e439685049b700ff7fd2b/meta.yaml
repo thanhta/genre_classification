@@ -1,0 +1,15 @@
+artifact_uri: file:///app/udacity/mlops/genre_classification/mlruns/0/8f4c7182a84e439685049b700ff7fd2b/artifacts
+end_time: 1703297232508
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8f4c7182a84e439685049b700ff7fd2b
+run_name: melodic-slug-882
+run_uuid: 8f4c7182a84e439685049b700ff7fd2b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1703297216133
+status: 3
+tags: []
+user_id: tta

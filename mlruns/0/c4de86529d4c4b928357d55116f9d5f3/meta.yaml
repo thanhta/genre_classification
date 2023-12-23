@@ -1,0 +1,15 @@
+artifact_uri: file:///app/udacity/mlops/genre_classification/mlruns/0/c4de86529d4c4b928357d55116f9d5f3/artifacts
+end_time: 1703297067482
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c4de86529d4c4b928357d55116f9d5f3
+run_name: treasured-grub-639
+run_uuid: c4de86529d4c4b928357d55116f9d5f3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1703297062264
+status: 4
+tags: []
+user_id: tta

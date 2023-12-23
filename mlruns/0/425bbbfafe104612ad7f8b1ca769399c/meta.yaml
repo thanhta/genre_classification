@@ -1,0 +1,15 @@
+artifact_uri: file:///app/udacity/mlops/genre_classification/mlruns/0/425bbbfafe104612ad7f8b1ca769399c/artifacts
+end_time: 1703261996544
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 425bbbfafe104612ad7f8b1ca769399c
+run_name: salty-pug-482
+run_uuid: 425bbbfafe104612ad7f8b1ca769399c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1703261929561
+status: 3
+tags: []
+user_id: tta

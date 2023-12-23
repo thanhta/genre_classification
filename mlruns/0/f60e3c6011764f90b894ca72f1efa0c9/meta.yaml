@@ -1,0 +1,15 @@
+artifact_uri: file:///app/udacity/mlops/genre_classification/mlruns/0/f60e3c6011764f90b894ca72f1efa0c9/artifacts
+end_time: 1703256669394
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f60e3c6011764f90b894ca72f1efa0c9
+run_name: delightful-shad-821
+run_uuid: f60e3c6011764f90b894ca72f1efa0c9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1703256635927
+status: 4
+tags: []
+user_id: tta

@@ -1,0 +1,15 @@
+artifact_uri: file:///app/udacity/mlops/genre_classification/mlruns/0/b4b9e653b33043a4b675aad98b32be83/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b4b9e653b33043a4b675aad98b32be83
+run_name: adorable-seal-755
+run_uuid: b4b9e653b33043a4b675aad98b32be83
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1703218817861
+status: 1
+tags: []
+user_id: tta

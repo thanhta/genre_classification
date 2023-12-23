@@ -1,0 +1,15 @@
+artifact_uri: file:///app/udacity/mlops/genre_classification/mlruns/0/433f49bef35c485ba1e3e9fa7d02a57b/artifacts
+end_time: 1703256306965
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 433f49bef35c485ba1e3e9fa7d02a57b
+run_name: debonair-boar-838
+run_uuid: 433f49bef35c485ba1e3e9fa7d02a57b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1703256179016
+status: 4
+tags: []
+user_id: tta

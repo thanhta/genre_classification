@@ -1,0 +1,15 @@
+artifact_uri: file:///app/udacity/mlops/genre_classification/mlruns/0/c8a2adf967d94b79820ae5851aff9214/artifacts
+end_time: 1703256432594
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c8a2adf967d94b79820ae5851aff9214
+run_name: adaptable-skunk-453
+run_uuid: c8a2adf967d94b79820ae5851aff9214
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1703256397197
+status: 4
+tags: []
+user_id: tta

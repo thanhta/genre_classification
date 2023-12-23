@@ -1,0 +1,66 @@
+{
+    "os": "Linux-4.18.0-477.21.1.el8_8.x86_64-x86_64-with-glibc2.28",
+    "python": "3.11.7",
+    "heartbeatAt": "2023-12-22T16:18:40.888806",
+    "startedAt": "2023-12-22T16:18:39.613180",
+    "docker": null,
+    "cuda": null,
+    "args": [
+        "-s",
+        "-vv",
+        ".",
+        "--reference_artifact",
+        "exercise_14/preprocessed_data.csv:latest",
+        "--sample_artifact",
+        "preprocessed_data.csv:latest",
+        "--ks_alpha",
+        "0.05"
+    ],
+    "state": "running",
+    "program": "/home/tta/miniconda3/envs/mlflow-fe2587c81cc6688bca065c82817d4d8591227f1d/bin/pytest",
+    "git": {
+        "remote": "https://github.com/thanhta/genre_classification.git",
+        "commit": "a180260f3ef621d8c6b5bea70d3300c4aaf03fe1"
+    },
+    "email": "thanhta2010@gmail.com",
+    "root": "/app/udacity/mlops/genre_classification",
+    "host": "AZRHIONVAL0002",
+    "username": "tta",
+    "executable": "/home/tta/miniconda3/envs/mlflow-fe2587c81cc6688bca065c82817d4d8591227f1d/bin/python",
+    "cpu_count": 2,
+    "cpu_count_logical": 4,
+    "cpu_freq": {
+        "current": 2593.906,
+        "min": 0.0,
+        "max": 0.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 2593.906,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2593.906,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2593.906,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2593.906,
+            "min": 0.0,
+            "max": 0.0
+        }
+    ],
+    "disk": {
+        "total": 8.001953125,
+        "used": 1.9974937438964844
+    },
+    "memory": {
+        "total": 15.391761779785156
+    }
+}

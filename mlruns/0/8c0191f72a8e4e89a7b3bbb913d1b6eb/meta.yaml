@@ -1,0 +1,15 @@
+artifact_uri: file:///app/udacity/mlops/genre_classification/mlruns/0/8c0191f72a8e4e89a7b3bbb913d1b6eb/artifacts
+end_time: 1703218296858
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8c0191f72a8e4e89a7b3bbb913d1b6eb
+run_name: casual-shad-392
+run_uuid: 8c0191f72a8e4e89a7b3bbb913d1b6eb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1703218257555
+status: 4
+tags: []
+user_id: tta

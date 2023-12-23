@@ -1,0 +1,15 @@
+artifact_uri: file:///app/udacity/mlops/genre_classification/mlruns/0/06337b2ddf05461fa7b2cb77e5956fa9/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 06337b2ddf05461fa7b2cb77e5956fa9
+run_name: efficient-hound-451
+run_uuid: 06337b2ddf05461fa7b2cb77e5956fa9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1703257906003
+status: 1
+tags: []
+user_id: tta

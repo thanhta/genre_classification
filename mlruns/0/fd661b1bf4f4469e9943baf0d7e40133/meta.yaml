@@ -1,0 +1,15 @@
+artifact_uri: file:///app/udacity/mlops/genre_classification/mlruns/0/fd661b1bf4f4469e9943baf0d7e40133/artifacts
+end_time: 1703266819907
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fd661b1bf4f4469e9943baf0d7e40133
+run_name: skittish-bee-266
+run_uuid: fd661b1bf4f4469e9943baf0d7e40133
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1703266813163
+status: 4
+tags: []
+user_id: tta

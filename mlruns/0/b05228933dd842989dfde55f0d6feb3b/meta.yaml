@@ -1,0 +1,15 @@
+artifact_uri: file:///app/udacity/mlops/genre_classification/mlruns/0/b05228933dd842989dfde55f0d6feb3b/artifacts
+end_time: 1703266415012
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b05228933dd842989dfde55f0d6feb3b
+run_name: carefree-pug-377
+run_uuid: b05228933dd842989dfde55f0d6feb3b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1703266404773
+status: 4
+tags: []
+user_id: tta

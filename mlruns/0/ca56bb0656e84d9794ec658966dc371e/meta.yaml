@@ -1,0 +1,15 @@
+artifact_uri: file:///app/udacity/mlops/genre_classification/mlruns/0/ca56bb0656e84d9794ec658966dc371e/artifacts
+end_time: 1703265833945
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ca56bb0656e84d9794ec658966dc371e
+run_name: casual-croc-580
+run_uuid: ca56bb0656e84d9794ec658966dc371e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1703265721092
+status: 4
+tags: []
+user_id: tta

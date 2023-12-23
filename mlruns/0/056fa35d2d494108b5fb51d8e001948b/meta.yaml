@@ -1,0 +1,15 @@
+artifact_uri: file:///app/udacity/mlops/genre_classification/mlruns/0/056fa35d2d494108b5fb51d8e001948b/artifacts
+end_time: 1703257867266
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 056fa35d2d494108b5fb51d8e001948b
+run_name: burly-yak-17
+run_uuid: 056fa35d2d494108b5fb51d8e001948b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1703257744665
+status: 4
+tags: []
+user_id: tta

@@ -1,0 +1,15 @@
+artifact_uri: file:///app/udacity/mlops/genre_classification/mlruns/0/6f3c25adfa314618a78137b57df808fa/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6f3c25adfa314618a78137b57df808fa
+run_name: puzzled-elk-117
+run_uuid: 6f3c25adfa314618a78137b57df808fa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1703218261547
+status: 1
+tags: []
+user_id: tta

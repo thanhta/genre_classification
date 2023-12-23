@@ -1,0 +1,15 @@
+artifact_uri: file:///app/udacity/mlops/genre_classification/mlruns/0/55d43485c62a48ae90afca9ff8921768/artifacts
+end_time: 1703264897207
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 55d43485c62a48ae90afca9ff8921768
+run_name: intelligent-calf-754
+run_uuid: 55d43485c62a48ae90afca9ff8921768
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1703264753292
+status: 4
+tags: []
+user_id: tta

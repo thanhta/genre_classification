@@ -1,0 +1,27 @@
+2023-12-22 17:27:07,964 INFO    MainThread:1493934 [wandb_setup.py:_flush():68] Configure stats pid to 1493934
+2023-12-22 17:27:07,964 INFO    MainThread:1493934 [wandb_setup.py:_flush():68] Loading settings from /home/tta/.config/wandb/settings
+2023-12-22 17:27:07,965 INFO    MainThread:1493934 [wandb_setup.py:_flush():68] Loading settings from /app/udacity/mlops/genre_classification/random_forest/wandb/settings
+2023-12-22 17:27:07,965 INFO    MainThread:1493934 [wandb_setup.py:_flush():68] Loading settings from environment variables: {'project': 'exercise_14', 'run_group': 'dev', 'api_key': '***REDACTED***', '_require_service': 'True'}
+2023-12-22 17:27:07,965 INFO    MainThread:1493934 [wandb_setup.py:_flush():68] Inferring run settings from compute environment: {'program_relpath': 'random_forest/run.py', 'program': 'run.py'}
+2023-12-22 17:27:07,965 INFO    MainThread:1493934 [wandb_init.py:_log_setup():492] Logging user logs to /app/udacity/mlops/genre_classification/random_forest/wandb/run-20231222_172707-bnova9rg/logs/debug.log
+2023-12-22 17:27:07,965 INFO    MainThread:1493934 [wandb_init.py:_log_setup():493] Logging internal logs to /app/udacity/mlops/genre_classification/random_forest/wandb/run-20231222_172707-bnova9rg/logs/debug-internal.log
+2023-12-22 17:27:07,965 INFO    MainThread:1493934 [wandb_init.py:init():532] calling init triggers
+2023-12-22 17:27:07,965 INFO    MainThread:1493934 [wandb_init.py:init():538] wandb.init called with sweep_config: {}
+config: {}
+2023-12-22 17:27:07,965 INFO    MainThread:1493934 [wandb_init.py:init():588] starting backend
+2023-12-22 17:27:07,966 INFO    MainThread:1493934 [wandb_init.py:init():592] setting up manager
+2023-12-22 17:27:07,969 INFO    MainThread:1493934 [backend.py:_multiprocessing_setup():106] multiprocessing start_methods=fork,spawn,forkserver, using: spawn
+2023-12-22 17:27:07,979 INFO    MainThread:1493934 [wandb_init.py:init():599] backend started and connected
+2023-12-22 17:27:07,983 INFO    MainThread:1493934 [wandb_init.py:init():687] updated telemetry
+2023-12-22 17:27:08,000 INFO    MainThread:1493934 [wandb_init.py:init():727] communicating run to backend with 60.0 second timeout
+2023-12-22 17:27:08,889 INFO    MainThread:1493934 [wandb_run.py:_on_init():2134] communicating current version
+2023-12-22 17:27:09,285 INFO    MainThread:1493934 [wandb_run.py:_on_init():2143] got version response upgrade_message: "wandb version 0.16.1 is available!  To upgrade, please run:\n $ pip install wandb --upgrade"
+
+2023-12-22 17:27:09,285 INFO    MainThread:1493934 [wandb_init.py:init():775] starting run threads in backend
+2023-12-22 17:27:13,435 INFO    MainThread:1493934 [wandb_run.py:_console_start():2114] atexit reg
+2023-12-22 17:27:13,435 INFO    MainThread:1493934 [wandb_run.py:_redirect():1969] redirect: SettingsConsole.WRAP_RAW
+2023-12-22 17:27:13,436 INFO    MainThread:1493934 [wandb_run.py:_redirect():2034] Wrapping output streams.
+2023-12-22 17:27:13,436 INFO    MainThread:1493934 [wandb_run.py:_redirect():2059] Redirects installed.
+2023-12-22 17:27:13,437 INFO    MainThread:1493934 [wandb_init.py:init():817] run started, returning control to user process
+2023-12-22 17:27:14,649 INFO    MainThread:1493934 [wandb_run.py:_config_callback():1250] config_cb None None {'random_forest': {'n_estimators': 100, 'criterion': 'gini', 'max_depth': 13, 'min_samples_split': 2, 'min_samples_leaf': 1, 'min_weight_fraction_leaf': 0.0, 'max_features': 'auto', 'max_leaf_nodes': None, 'min_impurity_decrease': 0.0, 'min_impurity_split': None, 'bootstrap': True, 'oob_score': False, 'n_jobs': None, 'random_state': 42, 'verbose': 0, 'warm_start': False, 'class_weight': 'balanced', 'ccp_alpha': 0.0, 'max_samples': None}, 'tfidf': {'max_features': 10}, 'features': {'numerical': ['danceability', 'energy', 'loudness', 'speechiness', 'acousticness', 'instrumentalness', 'liveness', 'valence', 'tempo', 'duration_ms'], 'categorical': ['time_signature', 'key'], 'nlp': ['text_feature']}, 'export_artifact': 'model_export'}
+2023-12-22 17:27:19,808 WARNING MsgRouterThr:1493934 [router.py:message_loop():77] message_loop has been closed

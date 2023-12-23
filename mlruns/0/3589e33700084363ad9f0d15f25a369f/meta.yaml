@@ -1,0 +1,15 @@
+artifact_uri: file:///app/udacity/mlops/genre_classification/mlruns/0/3589e33700084363ad9f0d15f25a369f/artifacts
+end_time: 1703220435750
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3589e33700084363ad9f0d15f25a369f
+run_name: omniscient-foal-900
+run_uuid: 3589e33700084363ad9f0d15f25a369f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1703220327421
+status: 3
+tags: []
+user_id: tta

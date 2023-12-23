@@ -1,0 +1,15 @@
+artifact_uri: file:///app/udacity/mlops/genre_classification/mlruns/0/d41d894587b34347981361091b7083bf/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d41d894587b34347981361091b7083bf
+run_name: merciful-mare-577
+run_uuid: d41d894587b34347981361091b7083bf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1703257116206
+status: 1
+tags: []
+user_id: tta

@@ -1,0 +1,15 @@
+artifact_uri: file:///app/udacity/mlops/genre_classification/mlruns/0/eea1d65de3f843018e20cd85eb3d3908/artifacts
+end_time: 1703297901990
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: eea1d65de3f843018e20cd85eb3d3908
+run_name: dapper-moose-280
+run_uuid: eea1d65de3f843018e20cd85eb3d3908
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1703297888219
+status: 3
+tags: []
+user_id: tta

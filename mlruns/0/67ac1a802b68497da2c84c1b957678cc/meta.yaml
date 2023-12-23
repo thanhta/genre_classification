@@ -1,0 +1,15 @@
+artifact_uri: file:///app/udacity/mlops/genre_classification/mlruns/0/67ac1a802b68497da2c84c1b957678cc/artifacts
+end_time: 1703264062161
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 67ac1a802b68497da2c84c1b957678cc
+run_name: receptive-fawn-68
+run_uuid: 67ac1a802b68497da2c84c1b957678cc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1703263917517
+status: 4
+tags: []
+user_id: tta

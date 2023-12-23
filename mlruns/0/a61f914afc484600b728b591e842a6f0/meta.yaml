@@ -1,0 +1,15 @@
+artifact_uri: file:///app/udacity/mlops/genre_classification/mlruns/0/a61f914afc484600b728b591e842a6f0/artifacts
+end_time: 1703288531547
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a61f914afc484600b728b591e842a6f0
+run_name: fearless-squid-416
+run_uuid: a61f914afc484600b728b591e842a6f0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1703288516564
+status: 3
+tags: []
+user_id: tta

@@ -1,0 +1,15 @@
+artifact_uri: file:///app/udacity/mlops/genre_classification/mlruns/0/4f4f012c42ef451e9405a3568ee79ffe/artifacts
+end_time: 1703287919255
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4f4f012c42ef451e9405a3568ee79ffe
+run_name: rebellious-duck-86
+run_uuid: 4f4f012c42ef451e9405a3568ee79ffe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1703287649529
+status: 4
+tags: []
+user_id: tta

@@ -1,0 +1,15 @@
+artifact_uri: file:///app/udacity/mlops/genre_classification/mlruns/0/a6ba8109e10d4b99bb8f92280a0f94ce/artifacts
+end_time: 1703284041027
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a6ba8109e10d4b99bb8f92280a0f94ce
+run_name: casual-slug-154
+run_uuid: a6ba8109e10d4b99bb8f92280a0f94ce
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1703284013779
+status: 4
+tags: []
+user_id: tta

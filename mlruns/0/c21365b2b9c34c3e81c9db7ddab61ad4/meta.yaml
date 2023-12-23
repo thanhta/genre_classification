@@ -1,0 +1,15 @@
+artifact_uri: file:///app/udacity/mlops/genre_classification/mlruns/0/c21365b2b9c34c3e81c9db7ddab61ad4/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c21365b2b9c34c3e81c9db7ddab61ad4
+run_name: rumbling-goose-332
+run_uuid: c21365b2b9c34c3e81c9db7ddab61ad4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1703256403199
+status: 1
+tags: []
+user_id: tta

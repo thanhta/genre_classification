@@ -1,0 +1,15 @@
+artifact_uri: file:///app/udacity/mlops/genre_classification/mlruns/0/70b85679991949b0b5fd8de83864bbe9/artifacts
+end_time: 1703288563389
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 70b85679991949b0b5fd8de83864bbe9
+run_name: flawless-lark-757
+run_uuid: 70b85679991949b0b5fd8de83864bbe9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1703288547587
+status: 3
+tags: []
+user_id: tta

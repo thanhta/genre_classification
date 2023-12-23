@@ -1,0 +1,182 @@
+2023-12-22 18:04:18,397 INFO    StreamThr :1510716 [internal.py:wandb_internal():87] W&B internal server running at pid: 1510716, started at: 2023-12-22 18:04:18.396712
+2023-12-22 18:04:18,402 DEBUG   HandlerThread:1510716 [handler.py:handle_request():144] handle_request: status
+2023-12-22 18:04:18,407 INFO    WriterThread:1510716 [datastore.py:open_for_write():85] open: /app/udacity/mlops/genre_classification/random_forest/wandb/run-20231222_180418-th4zezwd/run-th4zezwd.wandb
+2023-12-22 18:04:18,408 DEBUG   SenderThread:1510716 [sender.py:send():336] send: header
+2023-12-22 18:04:18,419 DEBUG   SenderThread:1510716 [sender.py:send():336] send: run
+2023-12-22 18:04:19,517 DEBUG   HandlerThread:1510716 [handler.py:handle_request():144] handle_request: check_version
+2023-12-22 18:04:19,518 INFO    SenderThread:1510716 [dir_watcher.py:__init__():216] watching files in: /app/udacity/mlops/genre_classification/random_forest/wandb/run-20231222_180418-th4zezwd/files
+2023-12-22 18:04:19,518 INFO    SenderThread:1510716 [sender.py:_start_run_threads():1067] run started: th4zezwd with start time 1703286258.396891
+2023-12-22 18:04:19,518 DEBUG   SenderThread:1510716 [sender.py:send_request():363] send_request: summary_record
+2023-12-22 18:04:19,520 INFO    SenderThread:1510716 [sender.py:_save_file():1321] saving file wandb-summary.json with policy end
+2023-12-22 18:04:19,521 DEBUG   SenderThread:1510716 [sender.py:send_request():363] send_request: check_version
+2023-12-22 18:04:19,888 DEBUG   HandlerThread:1510716 [handler.py:handle_request():144] handle_request: run_start
+2023-12-22 18:04:19,890 DEBUG   HandlerThread:1510716 [system_info.py:__init__():31] System info init
+2023-12-22 18:04:19,890 DEBUG   HandlerThread:1510716 [system_info.py:__init__():46] System info init done
+2023-12-22 18:04:19,890 INFO    HandlerThread:1510716 [system_monitor.py:start():151] Starting system monitor
+2023-12-22 18:04:19,890 INFO    SystemMonitor:1510716 [system_monitor.py:_start():116] Starting system asset monitoring threads
+2023-12-22 18:04:19,891 INFO    HandlerThread:1510716 [system_monitor.py:probe():172] Collecting system info
+2023-12-22 18:04:19,891 INFO    SystemMonitor:1510716 [interfaces.py:start():168] Started cpu
+2023-12-22 18:04:19,892 INFO    SystemMonitor:1510716 [interfaces.py:start():168] Started disk
+2023-12-22 18:04:19,892 INFO    SystemMonitor:1510716 [interfaces.py:start():168] Started memory
+2023-12-22 18:04:19,894 INFO    SystemMonitor:1510716 [interfaces.py:start():168] Started network
+2023-12-22 18:04:19,896 DEBUG   HandlerThread:1510716 [system_info.py:probe():195] Probing system
+2023-12-22 18:04:19,903 DEBUG   HandlerThread:1510716 [system_info.py:_probe_git():180] Probing git
+2023-12-22 18:04:19,918 DEBUG   HandlerThread:1510716 [system_info.py:_probe_git():188] Probing git done
+2023-12-22 18:04:19,918 DEBUG   HandlerThread:1510716 [system_info.py:probe():241] Probing system done
+2023-12-22 18:04:19,918 DEBUG   HandlerThread:1510716 [system_monitor.py:probe():181] {'os': 'Linux-4.18.0-477.21.1.el8_8.x86_64-x86_64-with-glibc2.10', 'python': '3.8.12', 'heartbeatAt': '2023-12-22T23:04:19.896466', 'startedAt': '2023-12-22T23:04:18.386486', 'docker': None, 'cuda': None, 'args': ('--train_data', 'data_train.csv:latest', '--model_config', '/app/udacity/mlops/genre_classification/outputs/2023-12-22/18-02-11/random_forest_config.yml', '--export_artifact', 'model_export', '--random_seed', '42', '--val_size', '0.3', '--stratify', 'genre'), 'state': 'running', 'program': 'run.py', 'codePath': 'random_forest/run.py', 'git': {'remote': 'https://github.com/thanhta/genre_classification.git', 'commit': 'a180260f3ef621d8c6b5bea70d3300c4aaf03fe1'}, 'email': 'thanhta2010@gmail.com', 'root': '/app/udacity/mlops/genre_classification', 'host': 'AZRHIONVAL0002', 'username': 'tta', 'executable': '/home/tta/miniconda3/envs/mlflow-c664717eaa64cbabe60c8e60f372556a4c61f24c/bin/python', 'cpu_count': 2, 'cpu_count_logical': 4, 'cpu_freq': {'current': 2593.906, 'min': 0.0, 'max': 0.0}, 'cpu_freq_per_core': [{'current': 2593.906, 'min': 0.0, 'max': 0.0}, {'current': 2593.906, 'min': 0.0, 'max': 0.0}, {'current': 2593.906, 'min': 0.0, 'max': 0.0}, {'current': 2593.906, 'min': 0.0, 'max': 0.0}], 'disk': {'total': 8.001953125, 'used': 1.9900779724121094}, 'memory': {'total': 15.391761779785156}}
+2023-12-22 18:04:19,919 INFO    HandlerThread:1510716 [system_monitor.py:probe():182] Finished collecting system info
+2023-12-22 18:04:19,919 INFO    HandlerThread:1510716 [system_monitor.py:probe():185] Publishing system info
+2023-12-22 18:04:19,919 DEBUG   HandlerThread:1510716 [system_info.py:_save_pip():51] Saving list of pip packages installed into the current environment
+2023-12-22 18:04:19,919 DEBUG   HandlerThread:1510716 [system_info.py:_save_pip():67] Saving pip packages done
+2023-12-22 18:04:19,919 DEBUG   HandlerThread:1510716 [system_info.py:_save_conda():74] Saving list of conda packages installed into the current environment
+2023-12-22 18:04:20,520 INFO    Thread-13 :1510716 [dir_watcher.py:_on_file_created():275] file/dir created: /app/udacity/mlops/genre_classification/random_forest/wandb/run-20231222_180418-th4zezwd/files/requirements.txt
+2023-12-22 18:04:20,521 INFO    Thread-13 :1510716 [dir_watcher.py:_on_file_created():275] file/dir created: /app/udacity/mlops/genre_classification/random_forest/wandb/run-20231222_180418-th4zezwd/files/wandb-summary.json
+2023-12-22 18:04:20,521 INFO    Thread-13 :1510716 [dir_watcher.py:_on_file_created():275] file/dir created: /app/udacity/mlops/genre_classification/random_forest/wandb/run-20231222_180418-th4zezwd/files/conda-environment.yaml
+2023-12-22 18:04:23,181 DEBUG   HandlerThread:1510716 [system_info.py:_save_conda():86] Saving conda packages done
+2023-12-22 18:04:23,182 INFO    HandlerThread:1510716 [system_monitor.py:probe():187] Finished publishing system info
+2023-12-22 18:04:23,186 DEBUG   SenderThread:1510716 [sender.py:send():336] send: files
+2023-12-22 18:04:23,186 INFO    SenderThread:1510716 [sender.py:_save_file():1321] saving file wandb-metadata.json with policy now
+2023-12-22 18:04:23,197 DEBUG   HandlerThread:1510716 [handler.py:handle_request():144] handle_request: stop_status
+2023-12-22 18:04:23,197 DEBUG   SenderThread:1510716 [sender.py:send_request():363] send_request: stop_status
+2023-12-22 18:04:23,428 DEBUG   SenderThread:1510716 [sender.py:send():336] send: telemetry
+2023-12-22 18:04:23,429 DEBUG   HandlerThread:1510716 [handler.py:handle_request():144] handle_request: status_report
+2023-12-22 18:04:23,520 INFO    Thread-13 :1510716 [dir_watcher.py:_on_file_modified():292] file/dir modified: /app/udacity/mlops/genre_classification/random_forest/wandb/run-20231222_180418-th4zezwd/files/conda-environment.yaml
+2023-12-22 18:04:23,520 INFO    Thread-13 :1510716 [dir_watcher.py:_on_file_created():275] file/dir created: /app/udacity/mlops/genre_classification/random_forest/wandb/run-20231222_180418-th4zezwd/files/wandb-metadata.json
+2023-12-22 18:04:23,521 INFO    Thread-13 :1510716 [dir_watcher.py:_on_file_created():275] file/dir created: /app/udacity/mlops/genre_classification/random_forest/wandb/run-20231222_180418-th4zezwd/files/output.log
+2023-12-22 18:04:23,611 INFO    wandb-upload_0:1510716 [upload_job.py:push():138] Uploaded file /tmp/tmpb4ki_fhpwandb/xbz5oqq7-wandb-metadata.json
+2023-12-22 18:04:23,912 DEBUG   SenderThread:1510716 [sender.py:send():336] send: use_artifact
+2023-12-22 18:04:24,394 DEBUG   SenderThread:1510716 [sender.py:send():336] send: config
+2023-12-22 18:04:24,397 DEBUG   SenderThread:1510716 [sender.py:send():336] send: exit
+2023-12-22 18:04:24,397 INFO    SenderThread:1510716 [sender.py:send_exit():559] handling exit code: 1
+2023-12-22 18:04:24,397 INFO    SenderThread:1510716 [sender.py:send_exit():561] handling runtime: 4
+2023-12-22 18:04:24,399 INFO    SenderThread:1510716 [sender.py:_save_file():1321] saving file wandb-summary.json with policy end
+2023-12-22 18:04:24,399 INFO    SenderThread:1510716 [sender.py:send_exit():567] send defer
+2023-12-22 18:04:24,399 DEBUG   HandlerThread:1510716 [handler.py:handle_request():144] handle_request: defer
+2023-12-22 18:04:24,399 INFO    HandlerThread:1510716 [handler.py:handle_request_defer():170] handle defer: 0
+2023-12-22 18:04:24,400 DEBUG   SenderThread:1510716 [sender.py:send_request():363] send_request: defer
+2023-12-22 18:04:24,400 INFO    SenderThread:1510716 [sender.py:send_request_defer():583] handle sender defer: 0
+2023-12-22 18:04:24,400 INFO    SenderThread:1510716 [sender.py:transition_state():587] send defer: 1
+2023-12-22 18:04:24,400 DEBUG   HandlerThread:1510716 [handler.py:handle_request():144] handle_request: defer
+2023-12-22 18:04:24,400 INFO    HandlerThread:1510716 [handler.py:handle_request_defer():170] handle defer: 1
+2023-12-22 18:04:24,400 DEBUG   SenderThread:1510716 [sender.py:send_request():363] send_request: defer
+2023-12-22 18:04:24,400 INFO    SenderThread:1510716 [sender.py:send_request_defer():583] handle sender defer: 1
+2023-12-22 18:04:24,400 INFO    SenderThread:1510716 [sender.py:transition_state():587] send defer: 2
+2023-12-22 18:04:24,400 DEBUG   HandlerThread:1510716 [handler.py:handle_request():144] handle_request: defer
+2023-12-22 18:04:24,400 INFO    HandlerThread:1510716 [handler.py:handle_request_defer():170] handle defer: 2
+2023-12-22 18:04:24,401 INFO    HandlerThread:1510716 [system_monitor.py:finish():161] Stopping system monitor
+2023-12-22 18:04:24,401 DEBUG   SystemMonitor:1510716 [system_monitor.py:_start():130] Starting system metrics aggregation loop
+2023-12-22 18:04:24,401 DEBUG   SystemMonitor:1510716 [system_monitor.py:_start():137] Finished system metrics aggregation loop
+2023-12-22 18:04:24,401 DEBUG   SystemMonitor:1510716 [system_monitor.py:_start():141] Publishing last batch of metrics
+2023-12-22 18:04:24,402 INFO    HandlerThread:1510716 [interfaces.py:finish():175] Joined cpu
+2023-12-22 18:04:24,402 INFO    HandlerThread:1510716 [interfaces.py:finish():175] Joined disk
+2023-12-22 18:04:24,402 INFO    HandlerThread:1510716 [interfaces.py:finish():175] Joined memory
+2023-12-22 18:04:24,402 INFO    HandlerThread:1510716 [interfaces.py:finish():175] Joined network
+2023-12-22 18:04:24,402 DEBUG   SenderThread:1510716 [sender.py:send_request():363] send_request: defer
+2023-12-22 18:04:24,402 INFO    SenderThread:1510716 [sender.py:send_request_defer():583] handle sender defer: 2
+2023-12-22 18:04:24,403 INFO    SenderThread:1510716 [sender.py:transition_state():587] send defer: 3
+2023-12-22 18:04:24,403 DEBUG   SenderThread:1510716 [sender.py:send():336] send: stats
+2023-12-22 18:04:24,403 DEBUG   HandlerThread:1510716 [handler.py:handle_request():144] handle_request: defer
+2023-12-22 18:04:24,403 INFO    HandlerThread:1510716 [handler.py:handle_request_defer():170] handle defer: 3
+2023-12-22 18:04:24,403 DEBUG   SenderThread:1510716 [sender.py:send_request():363] send_request: defer
+2023-12-22 18:04:24,403 INFO    SenderThread:1510716 [sender.py:send_request_defer():583] handle sender defer: 3
+2023-12-22 18:04:24,403 INFO    SenderThread:1510716 [sender.py:transition_state():587] send defer: 4
+2023-12-22 18:04:24,403 DEBUG   HandlerThread:1510716 [handler.py:handle_request():144] handle_request: defer
+2023-12-22 18:04:24,403 INFO    HandlerThread:1510716 [handler.py:handle_request_defer():170] handle defer: 4
+2023-12-22 18:04:24,404 DEBUG   SenderThread:1510716 [sender.py:send_request():363] send_request: defer
+2023-12-22 18:04:24,404 INFO    SenderThread:1510716 [sender.py:send_request_defer():583] handle sender defer: 4
+2023-12-22 18:04:24,404 INFO    SenderThread:1510716 [sender.py:transition_state():587] send defer: 5
+2023-12-22 18:04:24,404 DEBUG   HandlerThread:1510716 [handler.py:handle_request():144] handle_request: defer
+2023-12-22 18:04:24,404 INFO    HandlerThread:1510716 [handler.py:handle_request_defer():170] handle defer: 5
+2023-12-22 18:04:24,404 DEBUG   SenderThread:1510716 [sender.py:send():336] send: summary
+2023-12-22 18:04:24,405 INFO    SenderThread:1510716 [sender.py:_save_file():1321] saving file wandb-summary.json with policy end
+2023-12-22 18:04:24,405 DEBUG   SenderThread:1510716 [sender.py:send_request():363] send_request: defer
+2023-12-22 18:04:24,405 INFO    SenderThread:1510716 [sender.py:send_request_defer():583] handle sender defer: 5
+2023-12-22 18:04:24,405 INFO    SenderThread:1510716 [sender.py:transition_state():587] send defer: 6
+2023-12-22 18:04:24,405 DEBUG   HandlerThread:1510716 [handler.py:handle_request():144] handle_request: defer
+2023-12-22 18:04:24,405 INFO    HandlerThread:1510716 [handler.py:handle_request_defer():170] handle defer: 6
+2023-12-22 18:04:24,405 DEBUG   SenderThread:1510716 [sender.py:send_request():363] send_request: defer
+2023-12-22 18:04:24,405 INFO    SenderThread:1510716 [sender.py:send_request_defer():583] handle sender defer: 6
+2023-12-22 18:04:24,409 DEBUG   HandlerThread:1510716 [handler.py:handle_request():144] handle_request: status_report
+2023-12-22 18:04:24,521 INFO    Thread-13 :1510716 [dir_watcher.py:_on_file_modified():292] file/dir modified: /app/udacity/mlops/genre_classification/random_forest/wandb/run-20231222_180418-th4zezwd/files/wandb-summary.json
+2023-12-22 18:04:24,586 INFO    SenderThread:1510716 [sender.py:transition_state():587] send defer: 7
+2023-12-22 18:04:24,587 DEBUG   HandlerThread:1510716 [handler.py:handle_request():144] handle_request: defer
+2023-12-22 18:04:24,587 INFO    HandlerThread:1510716 [handler.py:handle_request_defer():170] handle defer: 7
+2023-12-22 18:04:24,587 DEBUG   SenderThread:1510716 [sender.py:send_request():363] send_request: defer
+2023-12-22 18:04:24,587 INFO    SenderThread:1510716 [sender.py:send_request_defer():583] handle sender defer: 7
+2023-12-22 18:04:25,398 DEBUG   HandlerThread:1510716 [handler.py:handle_request():144] handle_request: poll_exit
+2023-12-22 18:04:25,435 INFO    SenderThread:1510716 [sender.py:transition_state():587] send defer: 8
+2023-12-22 18:04:25,436 DEBUG   SenderThread:1510716 [sender.py:send_request():363] send_request: poll_exit
+2023-12-22 18:04:25,436 DEBUG   HandlerThread:1510716 [handler.py:handle_request():144] handle_request: defer
+2023-12-22 18:04:25,436 INFO    HandlerThread:1510716 [handler.py:handle_request_defer():170] handle defer: 8
+2023-12-22 18:04:25,437 DEBUG   SenderThread:1510716 [sender.py:send_request():363] send_request: defer
+2023-12-22 18:04:25,437 INFO    SenderThread:1510716 [sender.py:send_request_defer():583] handle sender defer: 8
+2023-12-22 18:04:25,453 INFO    SenderThread:1510716 [sender.py:transition_state():587] send defer: 9
+2023-12-22 18:04:25,453 DEBUG   HandlerThread:1510716 [handler.py:handle_request():144] handle_request: defer
+2023-12-22 18:04:25,454 INFO    HandlerThread:1510716 [handler.py:handle_request_defer():170] handle defer: 9
+2023-12-22 18:04:25,454 DEBUG   SenderThread:1510716 [sender.py:send():336] send: artifact
+2023-12-22 18:04:25,521 INFO    Thread-13 :1510716 [dir_watcher.py:_on_file_modified():292] file/dir modified: /app/udacity/mlops/genre_classification/random_forest/wandb/run-20231222_180418-th4zezwd/files/output.log
+2023-12-22 18:04:25,521 INFO    Thread-13 :1510716 [dir_watcher.py:_on_file_modified():292] file/dir modified: /app/udacity/mlops/genre_classification/random_forest/wandb/run-20231222_180418-th4zezwd/files/config.yaml
+2023-12-22 18:04:26,293 INFO    SenderThread:1510716 [sender.py:send_artifact():1417] sent artifact job-https___github.com_thanhta_genre_classification.git_random_forest_run.py - {'id': 'QXJ0aWZhY3Q6NjcyOTI5MzE4', 'digest': 'd1adcb86e27c94b41863dd0c67fee80e', 'state': 'COMMITTED', 'aliases': [{'artifactCollectionName': 'job-https___github.com_thanhta_genre_classification.git_random_forest_run.py', 'alias': 'latest'}, {'artifactCollectionName': 'job-https___github.com_thanhta_genre_classification.git_random_forest_run.py', 'alias': 'v1'}], 'artifactSequence': {'id': 'QXJ0aWZhY3RDb2xsZWN0aW9uOjEyNTMyNDY5NA==', 'latestArtifact': {'id': 'QXJ0aWZhY3Q6NjcyOTI5MzE4', 'versionIndex': 1}}, 'version': 'v1'}
+2023-12-22 18:04:26,294 DEBUG   SenderThread:1510716 [sender.py:send_request():363] send_request: defer
+2023-12-22 18:04:26,294 INFO    SenderThread:1510716 [sender.py:send_request_defer():583] handle sender defer: 9
+2023-12-22 18:04:26,294 INFO    SenderThread:1510716 [dir_watcher.py:finish():362] shutting down directory watcher
+2023-12-22 18:04:26,398 DEBUG   HandlerThread:1510716 [handler.py:handle_request():144] handle_request: poll_exit
+2023-12-22 18:04:26,522 INFO    SenderThread:1510716 [dir_watcher.py:finish():392] scan: /app/udacity/mlops/genre_classification/random_forest/wandb/run-20231222_180418-th4zezwd/files
+2023-12-22 18:04:26,522 INFO    SenderThread:1510716 [dir_watcher.py:finish():406] scan save: /app/udacity/mlops/genre_classification/random_forest/wandb/run-20231222_180418-th4zezwd/files/config.yaml config.yaml
+2023-12-22 18:04:26,522 INFO    SenderThread:1510716 [dir_watcher.py:finish():406] scan save: /app/udacity/mlops/genre_classification/random_forest/wandb/run-20231222_180418-th4zezwd/files/wandb-summary.json wandb-summary.json
+2023-12-22 18:04:26,525 INFO    SenderThread:1510716 [dir_watcher.py:finish():406] scan save: /app/udacity/mlops/genre_classification/random_forest/wandb/run-20231222_180418-th4zezwd/files/requirements.txt requirements.txt
+2023-12-22 18:04:26,526 INFO    SenderThread:1510716 [dir_watcher.py:finish():406] scan save: /app/udacity/mlops/genre_classification/random_forest/wandb/run-20231222_180418-th4zezwd/files/conda-environment.yaml conda-environment.yaml
+2023-12-22 18:04:26,531 INFO    SenderThread:1510716 [dir_watcher.py:finish():406] scan save: /app/udacity/mlops/genre_classification/random_forest/wandb/run-20231222_180418-th4zezwd/files/wandb-metadata.json wandb-metadata.json
+2023-12-22 18:04:26,531 INFO    SenderThread:1510716 [dir_watcher.py:finish():406] scan save: /app/udacity/mlops/genre_classification/random_forest/wandb/run-20231222_180418-th4zezwd/files/output.log output.log
+2023-12-22 18:04:26,534 INFO    SenderThread:1510716 [sender.py:transition_state():587] send defer: 10
+2023-12-22 18:04:26,535 DEBUG   SenderThread:1510716 [sender.py:send_request():363] send_request: poll_exit
+2023-12-22 18:04:26,535 DEBUG   HandlerThread:1510716 [handler.py:handle_request():144] handle_request: defer
+2023-12-22 18:04:26,537 INFO    HandlerThread:1510716 [handler.py:handle_request_defer():170] handle defer: 10
+2023-12-22 18:04:26,538 DEBUG   SenderThread:1510716 [sender.py:send_request():363] send_request: defer
+2023-12-22 18:04:26,538 INFO    SenderThread:1510716 [sender.py:send_request_defer():583] handle sender defer: 10
+2023-12-22 18:04:26,538 INFO    SenderThread:1510716 [file_pusher.py:finish():162] shutting down file pusher
+2023-12-22 18:04:26,848 INFO    wandb-upload_0:1510716 [upload_job.py:push():138] Uploaded file /app/udacity/mlops/genre_classification/random_forest/wandb/run-20231222_180418-th4zezwd/files/config.yaml
+2023-12-22 18:04:26,934 INFO    wandb-upload_4:1510716 [upload_job.py:push():138] Uploaded file /app/udacity/mlops/genre_classification/random_forest/wandb/run-20231222_180418-th4zezwd/files/output.log
+2023-12-22 18:04:26,939 INFO    wandb-upload_2:1510716 [upload_job.py:push():138] Uploaded file /app/udacity/mlops/genre_classification/random_forest/wandb/run-20231222_180418-th4zezwd/files/requirements.txt
+2023-12-22 18:04:26,939 INFO    wandb-upload_3:1510716 [upload_job.py:push():138] Uploaded file /app/udacity/mlops/genre_classification/random_forest/wandb/run-20231222_180418-th4zezwd/files/conda-environment.yaml
+2023-12-22 18:04:26,975 INFO    wandb-upload_1:1510716 [upload_job.py:push():138] Uploaded file /app/udacity/mlops/genre_classification/random_forest/wandb/run-20231222_180418-th4zezwd/files/wandb-summary.json
+2023-12-22 18:04:27,175 INFO    Thread-12 :1510716 [sender.py:transition_state():587] send defer: 11
+2023-12-22 18:04:27,176 DEBUG   HandlerThread:1510716 [handler.py:handle_request():144] handle_request: defer
+2023-12-22 18:04:27,176 INFO    HandlerThread:1510716 [handler.py:handle_request_defer():170] handle defer: 11
+2023-12-22 18:04:27,176 DEBUG   SenderThread:1510716 [sender.py:send_request():363] send_request: defer
+2023-12-22 18:04:27,176 INFO    SenderThread:1510716 [sender.py:send_request_defer():583] handle sender defer: 11
+2023-12-22 18:04:27,177 INFO    SenderThread:1510716 [file_pusher.py:join():167] waiting for file pusher
+2023-12-22 18:04:27,177 INFO    SenderThread:1510716 [sender.py:transition_state():587] send defer: 12
+2023-12-22 18:04:27,177 DEBUG   HandlerThread:1510716 [handler.py:handle_request():144] handle_request: defer
+2023-12-22 18:04:27,177 INFO    HandlerThread:1510716 [handler.py:handle_request_defer():170] handle defer: 12
+2023-12-22 18:04:27,177 DEBUG   SenderThread:1510716 [sender.py:send_request():363] send_request: defer
+2023-12-22 18:04:27,177 INFO    SenderThread:1510716 [sender.py:send_request_defer():583] handle sender defer: 12
+2023-12-22 18:04:27,276 INFO    SenderThread:1510716 [sender.py:transition_state():587] send defer: 13
+2023-12-22 18:04:27,277 DEBUG   HandlerThread:1510716 [handler.py:handle_request():144] handle_request: defer
+2023-12-22 18:04:27,277 INFO    HandlerThread:1510716 [handler.py:handle_request_defer():170] handle defer: 13
+2023-12-22 18:04:27,277 DEBUG   SenderThread:1510716 [sender.py:send_request():363] send_request: defer
+2023-12-22 18:04:27,277 INFO    SenderThread:1510716 [sender.py:send_request_defer():583] handle sender defer: 13
+2023-12-22 18:04:27,277 INFO    SenderThread:1510716 [sender.py:transition_state():587] send defer: 14
+2023-12-22 18:04:27,277 DEBUG   HandlerThread:1510716 [handler.py:handle_request():144] handle_request: defer
+2023-12-22 18:04:27,278 INFO    HandlerThread:1510716 [handler.py:handle_request_defer():170] handle defer: 14
+2023-12-22 18:04:27,278 DEBUG   SenderThread:1510716 [sender.py:send():336] send: final
+2023-12-22 18:04:27,278 DEBUG   SenderThread:1510716 [sender.py:send():336] send: footer
+2023-12-22 18:04:27,278 DEBUG   SenderThread:1510716 [sender.py:send_request():363] send_request: defer
+2023-12-22 18:04:27,278 INFO    SenderThread:1510716 [sender.py:send_request_defer():583] handle sender defer: 14
+2023-12-22 18:04:27,279 DEBUG   HandlerThread:1510716 [handler.py:handle_request():144] handle_request: poll_exit
+2023-12-22 18:04:27,279 DEBUG   SenderThread:1510716 [sender.py:send_request():363] send_request: poll_exit
+2023-12-22 18:04:27,280 DEBUG   HandlerThread:1510716 [handler.py:handle_request():144] handle_request: poll_exit
+2023-12-22 18:04:27,280 DEBUG   SenderThread:1510716 [sender.py:send_request():363] send_request: poll_exit
+2023-12-22 18:04:27,280 DEBUG   HandlerThread:1510716 [handler.py:handle_request():144] handle_request: server_info
+2023-12-22 18:04:27,281 DEBUG   SenderThread:1510716 [sender.py:send_request():363] send_request: server_info
+2023-12-22 18:04:27,283 DEBUG   HandlerThread:1510716 [handler.py:handle_request():144] handle_request: get_summary
+2023-12-22 18:04:27,284 DEBUG   HandlerThread:1510716 [handler.py:handle_request():144] handle_request: sampled_history
+2023-12-22 18:04:27,416 INFO    MainThread:1510716 [wandb_run.py:_footer_history_summary_info():3442] rendering history
+2023-12-22 18:04:27,416 INFO    MainThread:1510716 [wandb_run.py:_footer_history_summary_info():3474] rendering summary
+2023-12-22 18:04:27,416 INFO    MainThread:1510716 [wandb_run.py:_footer_sync_info():3398] logging synced files
+2023-12-22 18:04:27,416 DEBUG   HandlerThread:1510716 [handler.py:handle_request():144] handle_request: shutdown
+2023-12-22 18:04:27,416 INFO    HandlerThread:1510716 [handler.py:finish():841] shutting down handler
+2023-12-22 18:04:28,281 INFO    WriterThread:1510716 [datastore.py:close():299] close: /app/udacity/mlops/genre_classification/random_forest/wandb/run-20231222_180418-th4zezwd/run-th4zezwd.wandb
+2023-12-22 18:04:28,416 INFO    SenderThread:1510716 [sender.py:finish():1493] shutting down sender
+2023-12-22 18:04:28,416 INFO    SenderThread:1510716 [file_pusher.py:finish():162] shutting down file pusher
+2023-12-22 18:04:28,416 INFO    SenderThread:1510716 [file_pusher.py:join():167] waiting for file pusher

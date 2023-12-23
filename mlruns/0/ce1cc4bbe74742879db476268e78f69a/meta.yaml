@@ -1,0 +1,15 @@
+artifact_uri: file:///app/udacity/mlops/genre_classification/mlruns/0/ce1cc4bbe74742879db476268e78f69a/artifacts
+end_time: 1703218080699
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ce1cc4bbe74742879db476268e78f69a
+run_name: secretive-hawk-401
+run_uuid: ce1cc4bbe74742879db476268e78f69a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1703217992643
+status: 4
+tags: []
+user_id: tta

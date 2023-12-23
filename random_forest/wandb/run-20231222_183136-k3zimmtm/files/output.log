@@ -1,0 +1,19 @@
+2023-12-22 18:31:41,930 Downloading and reading train artifact
+2023-12-22 18:31:43,056 Extracting target from dataframe
+2023-12-22 18:31:43,059 Splitting train/val
+2023-12-22 18:31:43,090 Setting up pipeline
+2023-12-22 18:31:43,100 Fitting
+2023-12-22 18:31:46,524 Scoring
+/home/tta/miniconda3/envs/mlflow-db6885bf0734933aff95cc30a4ee3a0b822a8d11/lib/python3.8/site-packages/mlflow/models/signature.py:130: UserWarning: Hint: Inferred schema contains integer column(s). Integer columns in Python cannot represent missing values. If your input data contains missing values at inference time, it will be encoded as floats and will cause a schema enforcement error. The best way to avoid this problem is to infer the model schema based on a realistic data sample (training dataset) that includes missing values. Alternatively, you can declare integer columns as doubles (float64) whenever these columns may have missing values. See `Handling Integers With Missing Values <https://www.mlflow.org/docs/latest/models.html#handling-integers-with-missing-values>`_ for more details.
+  inputs = _infer_schema(model_input)
+/home/tta/miniconda3/envs/mlflow-db6885bf0734933aff95cc30a4ee3a0b822a8d11/lib/python3.8/site-packages/_distutils_hack/__init__.py:33: UserWarning: Setuptools is replacing distutils.
+  warnings.warn("Setuptools is replacing distutils.")
+[34m[1mwandb[39m[22m: Adding directory to artifact (/tmp/tmpz3_p890e/model_export)... Done. 0.0s
+2023-12-22 18:31:51,985 Computing feature importance (train)
+2023-12-22 18:31:52,103 Computing confusion matrix from estimator (train)
+Traceback (most recent call last):
+  File "run.py", line 267, in <module>
+    go(args)
+  File "run.py", line 78, in go
+    ConfusionMatrixDisplay.from_estimator(
+AttributeError: type object 'ConfusionMatrixDisplay' has no attribute 'from_estimator'

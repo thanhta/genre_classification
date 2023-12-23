@@ -1,0 +1,15 @@
+artifact_uri: file:///app/udacity/mlops/genre_classification/mlruns/0/e324317116594d68ae73af5eac585c6c/artifacts
+end_time: 1703298937399
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e324317116594d68ae73af5eac585c6c
+run_name: unruly-zebra-78
+run_uuid: e324317116594d68ae73af5eac585c6c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1703298819828
+status: 3
+tags: []
+user_id: tta

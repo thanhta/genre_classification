@@ -72,6 +72,7 @@ def go(args):
     fig_feat_imp = plot_feature_importance(pipe)
 
     fig_cm, sub_cm = plt.subplots(figsize=(10, 10))
+
     plot_confusion_matrix(
         pipe,
         X_val[used_columns],
@@ -81,6 +82,7 @@ def go(args):
         values_format=".1f",
         xticks_rotation=90,
     )
+    
     fig_cm.tight_layout()
 
     run.log(

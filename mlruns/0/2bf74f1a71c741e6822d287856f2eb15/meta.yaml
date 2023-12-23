@@ -1,0 +1,15 @@
+artifact_uri: file:///app/udacity/mlops/genre_classification/mlruns/0/2bf74f1a71c741e6822d287856f2eb15/artifacts
+end_time: 1703261717718
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2bf74f1a71c741e6822d287856f2eb15
+run_name: unequaled-kite-760
+run_uuid: 2bf74f1a71c741e6822d287856f2eb15
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1703261617293
+status: 3
+tags: []
+user_id: tta

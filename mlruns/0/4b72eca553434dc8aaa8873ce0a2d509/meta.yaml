@@ -1,0 +1,15 @@
+artifact_uri: file:///app/udacity/mlops/genre_classification/mlruns/0/4b72eca553434dc8aaa8873ce0a2d509/artifacts
+end_time: 1703261929546
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4b72eca553434dc8aaa8873ce0a2d509
+run_name: marvelous-goose-373
+run_uuid: 4b72eca553434dc8aaa8873ce0a2d509
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1703261915330
+status: 3
+tags: []
+user_id: tta

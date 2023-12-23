@@ -1,0 +1,6 @@
+2023-12-22 21:07:36,641 Downloading and reading artifact
+2023-12-22 21:07:37,761 Splitting data into train, val and test
+2023-12-22 21:07:37,799 Uploading the train dataset to data_train.csv
+2023-12-22 21:07:38,130 Logging artifact
+2023-12-22 21:07:39,094 Uploading the test dataset to data_test.csv
+2023-12-22 21:07:39,248 Logging artifact

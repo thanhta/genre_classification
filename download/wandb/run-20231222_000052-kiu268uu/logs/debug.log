@@ -1,0 +1,32 @@
+2023-12-22 00:00:52,158 INFO    MainThread:1073852 [wandb_setup.py:_flush():68] Configure stats pid to 1073852
+2023-12-22 00:00:52,158 INFO    MainThread:1073852 [wandb_setup.py:_flush():68] Loading settings from /home/tta/.config/wandb/settings
+2023-12-22 00:00:52,158 INFO    MainThread:1073852 [wandb_setup.py:_flush():68] Loading settings from /app/udacity/mlops/genre_classification/download/wandb/settings
+2023-12-22 00:00:52,158 INFO    MainThread:1073852 [wandb_setup.py:_flush():68] Loading settings from environment variables: {'project': 'exercise_14', 'run_group': 'dev', 'api_key': '***REDACTED***', '_require_service': 'True'}
+2023-12-22 00:00:52,158 INFO    MainThread:1073852 [wandb_setup.py:_flush():68] Inferring run settings from compute environment: {'program_relpath': 'download/download_data.py', 'program': '/app/udacity/mlops/genre_classification/download/download_data.py'}
+2023-12-22 00:00:52,158 INFO    MainThread:1073852 [wandb_init.py:_log_setup():492] Logging user logs to /app/udacity/mlops/genre_classification/download/wandb/run-20231222_000052-kiu268uu/logs/debug.log
+2023-12-22 00:00:52,158 INFO    MainThread:1073852 [wandb_init.py:_log_setup():493] Logging internal logs to /app/udacity/mlops/genre_classification/download/wandb/run-20231222_000052-kiu268uu/logs/debug-internal.log
+2023-12-22 00:00:52,158 INFO    MainThread:1073852 [wandb_init.py:init():532] calling init triggers
+2023-12-22 00:00:52,158 INFO    MainThread:1073852 [wandb_init.py:init():538] wandb.init called with sweep_config: {}
+config: {}
+2023-12-22 00:00:52,159 INFO    MainThread:1073852 [wandb_init.py:init():588] starting backend
+2023-12-22 00:00:52,159 INFO    MainThread:1073852 [wandb_init.py:init():592] setting up manager
+2023-12-22 00:00:52,161 INFO    MainThread:1073852 [backend.py:_multiprocessing_setup():106] multiprocessing start_methods=fork,spawn,forkserver, using: spawn
+2023-12-22 00:00:52,164 INFO    MainThread:1073852 [wandb_init.py:init():599] backend started and connected
+2023-12-22 00:00:52,171 INFO    MainThread:1073852 [wandb_init.py:init():687] updated telemetry
+2023-12-22 00:00:52,183 INFO    MainThread:1073852 [wandb_init.py:init():727] communicating run to backend with 60.0 second timeout
+2023-12-22 00:00:53,071 INFO    MainThread:1073852 [wandb_run.py:_on_init():2134] communicating current version
+2023-12-22 00:00:53,439 INFO    MainThread:1073852 [wandb_run.py:_on_init():2143] got version response upgrade_message: "wandb version 0.16.1 is available!  To upgrade, please run:\n $ pip install wandb --upgrade"
+
+2023-12-22 00:00:53,440 INFO    MainThread:1073852 [wandb_init.py:init():775] starting run threads in backend
+2023-12-22 00:00:54,445 INFO    MainThread:1073852 [wandb_run.py:_console_start():2114] atexit reg
+2023-12-22 00:00:54,445 INFO    MainThread:1073852 [wandb_run.py:_redirect():1969] redirect: 3
+2023-12-22 00:00:54,446 INFO    MainThread:1073852 [wandb_run.py:_redirect():2034] Wrapping output streams.
+2023-12-22 00:00:54,446 INFO    MainThread:1073852 [wandb_run.py:_redirect():2059] Redirects installed.
+2023-12-22 00:00:54,446 INFO    MainThread:1073852 [wandb_init.py:init():817] run started, returning control to user process
+2023-12-22 00:00:56,249 INFO    MainThread:1073852 [wandb_run.py:_finish():1854] finishing run thanhta123/exercise_14/kiu268uu
+2023-12-22 00:00:56,250 INFO    MainThread:1073852 [wandb_run.py:_atexit_cleanup():2083] got exitcode: 0
+2023-12-22 00:00:56,250 INFO    MainThread:1073852 [wandb_run.py:_restore():2066] restore
+2023-12-22 00:00:56,250 INFO    MainThread:1073852 [wandb_run.py:_restore():2072] restore done
+2023-12-22 00:01:00,970 INFO    MainThread:1073852 [wandb_run.py:_footer_history_summary_info():3442] rendering history
+2023-12-22 00:01:00,970 INFO    MainThread:1073852 [wandb_run.py:_footer_history_summary_info():3474] rendering summary
+2023-12-22 00:01:00,973 INFO    MainThread:1073852 [wandb_run.py:_footer_sync_info():3398] logging synced files

@@ -1,0 +1,15 @@
+artifact_uri: file:///app/udacity/mlops/genre_classification/mlruns/0/ed988d4a44fe431fba533003a6a9624b/artifacts
+end_time: 1703288610418
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ed988d4a44fe431fba533003a6a9624b
+run_name: serious-mule-838
+run_uuid: ed988d4a44fe431fba533003a6a9624b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1703288513448
+status: 3
+tags: []
+user_id: tta

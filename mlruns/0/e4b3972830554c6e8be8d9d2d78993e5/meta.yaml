@@ -1,0 +1,15 @@
+artifact_uri: file:///app/udacity/mlops/genre_classification/mlruns/0/e4b3972830554c6e8be8d9d2d78993e5/artifacts
+end_time: 1703298837930
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e4b3972830554c6e8be8d9d2d78993e5
+run_name: big-roo-653
+run_uuid: e4b3972830554c6e8be8d9d2d78993e5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1703298822990
+status: 3
+tags: []
+user_id: tta

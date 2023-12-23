@@ -1,0 +1,15 @@
+artifact_uri: file:///app/udacity/mlops/genre_classification/mlruns/0/1e7d1fbb05724e1fa5db434947bb90c5/artifacts
+end_time: 1703217131833
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1e7d1fbb05724e1fa5db434947bb90c5
+run_name: skillful-asp-117
+run_uuid: 1e7d1fbb05724e1fa5db434947bb90c5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1703217125063
+status: 4
+tags: []
+user_id: tta

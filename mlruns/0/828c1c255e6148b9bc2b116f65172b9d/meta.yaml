@@ -1,0 +1,15 @@
+artifact_uri: file:///app/udacity/mlops/genre_classification/mlruns/0/828c1c255e6148b9bc2b116f65172b9d/artifacts
+end_time: 1703218854170
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 828c1c255e6148b9bc2b116f65172b9d
+run_name: carefree-trout-181
+run_uuid: 828c1c255e6148b9bc2b116f65172b9d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1703218814693
+status: 4
+tags: []
+user_id: tta

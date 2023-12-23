@@ -1,0 +1,15 @@
+artifact_uri: file:///app/udacity/mlops/genre_classification/mlruns/0/b4e7aa3e69474e4eb149e54f625e7107/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b4e7aa3e69474e4eb149e54f625e7107
+run_name: mysterious-sow-165
+run_uuid: b4e7aa3e69474e4eb149e54f625e7107
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1703256818728
+status: 1
+tags: []
+user_id: tta

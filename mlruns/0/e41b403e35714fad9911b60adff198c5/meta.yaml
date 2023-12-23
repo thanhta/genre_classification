@@ -1,0 +1,15 @@
+artifact_uri: file:///app/udacity/mlops/genre_classification/mlruns/0/e41b403e35714fad9911b60adff198c5/artifacts
+end_time: 1703297293706
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e41b403e35714fad9911b60adff198c5
+run_name: entertaining-cow-960
+run_uuid: e41b403e35714fad9911b60adff198c5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1703297265026
+status: 3
+tags: []
+user_id: tta

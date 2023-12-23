@@ -1,0 +1,15 @@
+artifact_uri: file:///app/udacity/mlops/genre_classification/mlruns/0/6fd8466e25af4859ab5f7f80e6127faf/artifacts
+end_time: 1703220435582
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6fd8466e25af4859ab5f7f80e6127faf
+run_name: caring-shark-158
+run_uuid: 6fd8466e25af4859ab5f7f80e6127faf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1703220345314
+status: 3
+tags: []
+user_id: tta

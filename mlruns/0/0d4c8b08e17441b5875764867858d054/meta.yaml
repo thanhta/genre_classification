@@ -1,0 +1,15 @@
+artifact_uri: file:///app/udacity/mlops/genre_classification/mlruns/0/0d4c8b08e17441b5875764867858d054/artifacts
+end_time: 1703217900187
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0d4c8b08e17441b5875764867858d054
+run_name: intelligent-goat-199
+run_uuid: 0d4c8b08e17441b5875764867858d054
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1703217742057
+status: 4
+tags: []
+user_id: tta

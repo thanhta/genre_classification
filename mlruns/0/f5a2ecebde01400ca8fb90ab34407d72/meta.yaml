@@ -1,0 +1,15 @@
+artifact_uri: file:///app/udacity/mlops/genre_classification/mlruns/0/f5a2ecebde01400ca8fb90ab34407d72/artifacts
+end_time: 1703258188075
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f5a2ecebde01400ca8fb90ab34407d72
+run_name: nimble-bat-564
+run_uuid: f5a2ecebde01400ca8fb90ab34407d72
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1703258062973
+status: 4
+tags: []
+user_id: tta

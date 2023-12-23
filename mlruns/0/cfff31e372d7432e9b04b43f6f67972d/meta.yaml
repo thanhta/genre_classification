@@ -1,0 +1,15 @@
+artifact_uri: file:///app/udacity/mlops/genre_classification/mlruns/0/cfff31e372d7432e9b04b43f6f67972d/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cfff31e372d7432e9b04b43f6f67972d
+run_name: receptive-elk-547
+run_uuid: cfff31e372d7432e9b04b43f6f67972d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1703255987075
+status: 1
+tags: []
+user_id: tta

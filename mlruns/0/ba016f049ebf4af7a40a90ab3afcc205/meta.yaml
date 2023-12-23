@@ -1,0 +1,15 @@
+artifact_uri: file:///app/udacity/mlops/genre_classification/mlruns/0/ba016f049ebf4af7a40a90ab3afcc205/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ba016f049ebf4af7a40a90ab3afcc205
+run_name: bustling-grub-696
+run_uuid: ba016f049ebf4af7a40a90ab3afcc205
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1703258154032
+status: 1
+tags: []
+user_id: tta

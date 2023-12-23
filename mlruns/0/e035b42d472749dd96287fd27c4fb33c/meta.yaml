@@ -1,0 +1,15 @@
+artifact_uri: file:///app/udacity/mlops/genre_classification/mlruns/0/e035b42d472749dd96287fd27c4fb33c/artifacts
+end_time: 1703262746549
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e035b42d472749dd96287fd27c4fb33c
+run_name: unequaled-seal-541
+run_uuid: e035b42d472749dd96287fd27c4fb33c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1703262731100
+status: 3
+tags: []
+user_id: tta

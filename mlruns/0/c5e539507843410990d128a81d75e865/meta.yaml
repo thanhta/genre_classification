@@ -1,0 +1,15 @@
+artifact_uri: file:///app/udacity/mlops/genre_classification/mlruns/0/c5e539507843410990d128a81d75e865/artifacts
+end_time: 1703297950802
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c5e539507843410990d128a81d75e865
+run_name: bright-sow-83
+run_uuid: c5e539507843410990d128a81d75e865
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1703297933675
+status: 3
+tags: []
+user_id: tta

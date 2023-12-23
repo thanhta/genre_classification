@@ -1,0 +1,15 @@
+artifact_uri: file:///app/udacity/mlops/genre_classification/mlruns/0/d99de7c5d453479f9a61818eeeada66f/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d99de7c5d453479f9a61818eeeada66f
+run_name: aged-penguin-556
+run_uuid: d99de7c5d453479f9a61818eeeada66f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1703256640675
+status: 1
+tags: []
+user_id: tta

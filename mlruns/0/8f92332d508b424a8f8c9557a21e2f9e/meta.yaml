@@ -1,0 +1,15 @@
+artifact_uri: file:///app/udacity/mlops/genre_classification/mlruns/0/8f92332d508b424a8f8c9557a21e2f9e/artifacts
+end_time: 1703257935744
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8f92332d508b424a8f8c9557a21e2f9e
+run_name: angry-shoat-995
+run_uuid: 8f92332d508b424a8f8c9557a21e2f9e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1703257902727
+status: 4
+tags: []
+user_id: tta

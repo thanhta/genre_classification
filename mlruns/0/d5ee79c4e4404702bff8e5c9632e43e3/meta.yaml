@@ -1,0 +1,15 @@
+artifact_uri: file:///app/udacity/mlops/genre_classification/mlruns/0/d5ee79c4e4404702bff8e5c9632e43e3/artifacts
+end_time: 1703298868772
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d5ee79c4e4404702bff8e5c9632e43e3
+run_name: fearless-swan-983
+run_uuid: d5ee79c4e4404702bff8e5c9632e43e3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1703298853262
+status: 3
+tags: []
+user_id: tta

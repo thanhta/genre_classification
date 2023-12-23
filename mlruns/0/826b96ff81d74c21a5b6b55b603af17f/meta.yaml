@@ -1,0 +1,15 @@
+artifact_uri: file:///app/udacity/mlops/genre_classification/mlruns/0/826b96ff81d74c21a5b6b55b603af17f/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 826b96ff81d74c21a5b6b55b603af17f
+run_name: valuable-grub-127
+run_uuid: 826b96ff81d74c21a5b6b55b603af17f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1703219277465
+status: 1
+tags: []
+user_id: tta

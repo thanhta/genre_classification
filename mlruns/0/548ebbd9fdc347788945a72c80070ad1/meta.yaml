@@ -1,0 +1,15 @@
+artifact_uri: file:///app/udacity/mlops/genre_classification/mlruns/0/548ebbd9fdc347788945a72c80070ad1/artifacts
+end_time: 1703298161244
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 548ebbd9fdc347788945a72c80070ad1
+run_name: carefree-grub-78
+run_uuid: 548ebbd9fdc347788945a72c80070ad1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1703298156768
+status: 4
+tags: []
+user_id: tta

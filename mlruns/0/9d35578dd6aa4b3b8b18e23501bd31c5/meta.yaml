@@ -1,0 +1,15 @@
+artifact_uri: file:///app/udacity/mlops/genre_classification/mlruns/0/9d35578dd6aa4b3b8b18e23501bd31c5/artifacts
+end_time: 1703256730628
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9d35578dd6aa4b3b8b18e23501bd31c5
+run_name: worried-ant-427
+run_uuid: 9d35578dd6aa4b3b8b18e23501bd31c5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1703256697273
+status: 4
+tags: []
+user_id: tta
